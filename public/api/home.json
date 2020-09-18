@@ -1,0 +1,45 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "杨丽萍徒弟水月与同性结婚，在中国允许同性恋了吗？",
+			"desc": "杨丽萍徒弟水月和同性女人结婚，上了热搜，也抢了我的眼球。在中国，同性恋可以领证吗？合法吗？啥时可以同性恋结婚了？ 在中国，同性恋是不可以领证的",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/7190121-750d12d141de3e5c.JPEG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 2,
+			"title": "杨丽萍徒弟水月与同性结婚，在中国允许同性恋了吗？",
+			"desc": "杨丽萍徒弟水月和同性女人结婚，上了热搜，也抢了我的眼球。在中国，同性恋可以领证吗？合法吗？啥时可以同性恋结婚了？ 在中国，同性恋是不可以领证的",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/7190121-750d12d141de3e5c.JPEG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 3,
+			"title": "杨丽萍徒弟水月与同性结婚，在中国允许同性恋了吗？",
+			"desc": "杨丽萍徒弟水月和同性女人结婚，上了热搜，也抢了我的眼球。在中国，同性恋可以领证吗？合法吗？啥时可以同性恋结婚了？ 在中国，同性恋是不可以领证的",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/7190121-750d12d141de3e5c.JPEG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 4,
+			"title": "杨丽萍徒弟水月与同性结婚，在中国允许同性恋了吗？",
+			"desc": "杨丽萍徒弟水月和同性女人结婚，上了热搜，也抢了我的眼球。在中国，同性恋可以领证吗？合法吗？啥时可以同性恋结婚了？ 在中国，同性恋是不可以领证的",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/7190121-750d12d141de3e5c.JPEG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}, {
+			"id": 3,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+		}]
+	}
+}
